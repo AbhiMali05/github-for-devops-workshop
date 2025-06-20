@@ -6,6 +6,9 @@ git rm --cached testing.py
 git config --global user.name "Abhishek Mali"
 git config --global user.email "maliabhi000@gmail.com"
 rm testing.py
-
-hii
 git restore testing.py
+histroy
+git add git_command.txt
+git commit -m "add git command file"
+git push origin master
+
